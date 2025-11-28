@@ -1,6 +1,6 @@
 # Rapport de Sécurité et Compatibilité - Deequ
 
-**Date du rapport**: 28 novembre 2025  
+**Date du rapport**: Généré automatiquement  
 **Auteur**: Analyse de sécurité automatisée  
 **Objet**: Évaluation du package Deequ pour utilisation en production
 
@@ -152,7 +152,7 @@ libraryDependencies += "com.amazon.deequ" % "deequ" % "2.0.12-spark-3.3"
 ### Indicateurs positifs:
 1. **Mainteneur réputé**: AWS Labs (Amazon)
 2. **Projet actif**: 
-   - Dernière release: 2.0.13 (novembre 2025)
+   - Dernière release: 2.0.12 et 2.0.13 disponibles
    - Contributeurs actifs
    - Issues régulièrement traitées
 3. **Politique de sécurité**: Processus de signalement via AWS Security
